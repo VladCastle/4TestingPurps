@@ -1,4 +1,4 @@
-public class Bazooka {
+public class bazooka {
 
     public static void main(String[] args) {
 
