@@ -4,6 +4,6 @@ public class Bazooka {
 
 
 
-System.out.println("My name is Giovanni Giorgio, but everybody calls me Giorgio")
+System.out.println("My name is Giovanni Giorgio, but everybody calls me Giorgio");
 }
 }
